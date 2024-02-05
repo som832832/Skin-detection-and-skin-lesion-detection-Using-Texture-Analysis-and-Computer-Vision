@@ -1,5 +1,5 @@
 # Skin-detection-and-skin-lesions-detection-Using-Texture-Analysis-and-Computer-Vision
-Skin detection and skin lesion detection Using Texture Analysis and Computer Vision
+Skin detection and skin lesion detection including melanoma Using Texture Analysis and Computer Vision
 
 This paper deals with solving two problems in the diagnosis of pigmented skin lesions and human
 skin detection. The first challenge is to diagnose pigmented skin lesions, including melanoma, in
